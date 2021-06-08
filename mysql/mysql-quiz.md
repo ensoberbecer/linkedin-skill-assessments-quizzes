@@ -409,8 +409,8 @@
 #### Q46. you need to make your mysql system secure against hackers. What are you not supposed to do?
 
 - [ ] Run the server as normal user
-- [x] grant process or super privilege to other user
-- [ ] run the server as the unix root user
+- [ ] grant process or super privilege to other user
+- [x] run the server as the unix root user
 - [ ] use the compressed protocol
 
 #### Q47. You manage a database with a table "customers". You created a temporary table also called "customers" with which you are working for the duration of your session. You need to recreate the temporary table with different specs. Which command do you need to run first?
